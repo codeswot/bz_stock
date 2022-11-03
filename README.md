@@ -43,16 +43,31 @@ it will get all packages and dependencies and will also generate the appropriate
 now go ahead and run `flutter run`
 
 ## Screenshot
+Loading
 
-- ![Loading:is data loading](https://github.com/codeswot/bz_stock/assets/doc/loading.png)
-- ![Internet:no internet connection](https://github.com/codeswot/bz_stock/assets/doc/internet.png)
-- ![Server:server has error](https://github.com/codeswot/bz_stock/assets/doc/server.png)
-- ![Home:Has Data](https://github.com/codeswot/bz_stock/assets/doc/data.png)
-- ![Search Stock: searching list of fetched data](https://github.com/codeswot/bz_stock/assets/doc/search.png)
-- ![Date range : Pick range of dates to get data from](https://github.com/codeswot/bz_stock/assets/doc/date.png)
+- ![Loading:is data loading](https://github.com/codeswot/bz_stock/blob/main/assets/doc/loading.png?raw=true)
+
+No Internet
+
+- ![Internet:no internet connection](https://github.com/codeswot/bz_stock/blob/main/assets/doc/internet.png?raw=true)
+
+Server Error
+
+
+- ![Server:server has error](https://github.com/codeswot/bz_stock/blob/main/assets/doc/server.png?raw=true)
+
+Stock Data
+
+
+- ![Home:Has Data](https://github.com/codeswot/bz_stock/blob/main/assets/doc/data.png?raw=true)
+- ![Search Stock: searching list of fetched data](https://github.com/codeswot/bz_stock/blob/main/assets/doc/search.png?raw=true)
+
+Pick Date range to fetch data from
+
+- ![Date range : Pick range of dates to get data from](https://github.com/codeswot/bz_stock/blob/main/assets/doc/date.png?raw=true)
 
 ##App overview
-![App Overview](https://github.com/codeswot/bz_stock/assets/doc/app.gif)
+![App Overview](https://github.com/codeswot/bz_stock/blob/main/assets/doc/app.gif?raw=true)
 
 
 

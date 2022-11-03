@@ -35,9 +35,10 @@ Test cases cover,
   note: each test can run independently of other tests, you can also test out the `test/data/domain/usecase/get_market_stock_test:getMarketStock` to see how well
   it integrates with the app repository.
 
-### Code coverage
+#### Code coverage
 additionally you may want to see the code coverage in a UI friendly manner i use `lcov` to generate a html file with the code coverage information
 you may want to install `lcov` check out  [lcov Doc](https://github.com/linux-test-project/lcov)
+
 after installing lcov you can run ` flutter test --coverage                                       
   genhtml coverage/lcov.info -o coverage/html
   open coverage/html/index.html

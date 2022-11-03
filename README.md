@@ -44,7 +44,15 @@ now go ahead and run `flutter run`
 
 ## Screenshot
 
+- ![Loading:is data loading](https://github.com/codeswot/bz_stock/assets/doc/loading.png)
+- ![Internet:no internet connection](https://github.com/codeswot/bz_stock/assets/doc/internet.png)
+- ![Server:server has error](https://github.com/codeswot/bz_stock/assets/doc/server.png)
+- ![Home:Has Data](https://github.com/codeswot/bz_stock/assets/doc/data.png)
+- ![Search Stock: searching list of fetched data](https://github.com/codeswot/bz_stock/assets/doc/search.png)
+- ![Date range : Pick range of dates to get data from](https://github.com/codeswot/bz_stock/assets/doc/date.png)
 
+##App overview
+![App Overview](https://github.com/codeswot/bz_stock/assets/doc/app.gif)
 
 
 

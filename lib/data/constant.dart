@@ -2,7 +2,7 @@ import 'package:intl/intl.dart';
 
 class Urls {
   static const String baseUrl = 'http://api.marketstack.com/v1';
-  static const String apiKey = '470e2eaddfd778a40916932489dfa37d';
+  static const String apiKey = 'b1c3f255a8d406381930dc2c40179763';
   static const defaultLimit = 10;
   static const List<String> _symbols = [
     'GOOG',
